@@ -8,8 +8,9 @@
 
 - The links to the script are:
 
-	1. HTML page : [index.html]()
-	2. Javascript : [app.js]()
+	1. HTML page : [index.html](https://github.com/manasidek/UFOs/blob/main/index.html)
+	2. Javascript : [app.js](https://github.com/manasidek/UFOs/blob/main/static/js/app.js)
+	3. Data Source : [data.js](https://github.com/manasidek/UFOs/blob/main/static/js/data.js)
 
 - In the illustration below, filter is performed
 
@@ -19,15 +20,15 @@
 
 - A valid date is entered (1/1/2010 to 1/13/2010) : 1/10/2010 and then press Enter.
 
-![date_filter]()
+![date_filter](https://github.com/manasidek/UFOs/blob/main/static/images/date_filter.png)
 
 - From the results above select a state : ca and then press Enter.
 
-![state_filter]()
+![state_filter](https://github.com/manasidek/UFOs/blob/main/static/images/state_filter.png)
 
 - Lastly, shape filter is entered : fireball and then press Enter.
 
-![shape_filter]()
+![shape_filter](https://github.com/manasidek/UFOs/blob/main/static/images/shape_filter.png)
 
 ## Summary
 
