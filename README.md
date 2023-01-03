@@ -12,7 +12,7 @@
 	2. Javascript : [app.js](https://github.com/manasidek/UFOs/blob/main/static/js/app.js)
 	3. Data Source : [data.js](https://github.com/manasidek/UFOs/blob/main/static/js/data.js)
 
-- In the illustration below, filter is performed
+- In the illustration below, the following filters are applied
 
 	1. Date of the sighting.
 	2. State, where UFO was sighted.
@@ -34,10 +34,10 @@
 
 ### Drawback
 
-- The webpages has to be reloaded in order to clear the filters.
+- The webpage has to be reloaded in order to clear the filters.
 
 ### Recommendations
 
 - A clear filter button can be added to remove the filters.
 
-- Validation can be added on the input text boxes.
+- Validation can be added on the input text boxes to check for valid inputs.
